@@ -2,6 +2,8 @@
 title: 2024年秋季算法基础课程介绍
 ---
 
+[2025年课程链接](https://2025-ustc-algorithm.github.io/)
+
 ### 任课教师
 > - [李向阳](http://staff.ustc.edu.cn/~xiangyangli/)，邮箱：xiangyangli@ustc.edu.cn
 > - [谈海生](http://staff.ustc.edu.cn/~hstan/research.html)，邮箱：hstan@ustc.edu.cn
